@@ -1,6 +1,8 @@
 <?php
 
-
+/*
+	Template Name: Locations
+*/
 get_header();extract((array)$META)?>
 
 
